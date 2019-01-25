@@ -7,6 +7,7 @@ See it live at [`rexledesma.com`](https://rexledesma.com)
 
 - [Semantic UI](https://semantic-ui.com)
 - [Favicon](https://www.favicon.cc/)
+- [Github Corners](https://github.com/tholman/github-corners)
 
 ## Showcase
 
