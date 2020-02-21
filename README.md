@@ -7,10 +7,3 @@ See it live at [`rexledesma.com`](https://rexledesma.com)
 
 - [Semantic UI](https://semantic-ui.com)
 - [Favicon](https://www.favicon.cc/)
-
-## Showcase
-
-Examples of this website theme!
-
-- [@kuang](http://justinkuang.com)
-- [@rkemburu](http://ravikemburu.me/)
