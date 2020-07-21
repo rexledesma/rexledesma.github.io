@@ -21,6 +21,8 @@ github_username: rexledesma
 linkedin_username: rexledesma
 twitter_username: haviddarvey
 
+google_analytics: UA-173158493-1
+
 permalink: /blog/:title
 
 # Build settings
