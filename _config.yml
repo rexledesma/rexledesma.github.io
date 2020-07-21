@@ -13,12 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Blog
+title: Notes from the Overground
 email: rex.ledesma1@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rexledesma.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: rexledesma
 linkedin_username: rexledesma
+twitter_username: haviddarvey
 
 permalink: /blog/:title
 
@@ -28,7 +29,6 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
