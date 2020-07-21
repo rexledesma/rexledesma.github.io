@@ -155,7 +155,7 @@ how to swim.
 I have
 [played the part you have modelled](https://obamawhitehouse.archives.gov/the-press-office/2012/06/15/remarks-president-immigration)
 us to be. Yet missing papers continue to overshadow my totality. When will the
-ocean part and let me walk to dry land by my own, a land I can safely call home?
+ocean part and let me walk by my own to dry land, a land I can safely call home?
 [Even after a supposedly favorable decision](https://www.nytimes.com/2020/06/18/us/DACA-dreamers-supreme-court-immigration.html),
 I can only sigh a small breath of relief, for again the proceedings of these
 recent events serve as a harsh reminder that my presence in America for the past
