@@ -53,7 +53,5 @@ hr { width: 70%; }
   figure { max-width: 100%; }
   figcaption, figure.fullwidth figcaption { margin-right: 0%;
                                             max-width: none; }
-  blockquote p, blockquote footer, div.epigraph > blockquote > footer,.MJXc-display {  width: 90%;
-                                    padding-left: 5%;
-                                    padding-right: 5%;
-                                  }}
+  blockquote p, blockquote footer, div.epigraph > blockquote > footer,.MJXc-display { width: 100%; }
+}
