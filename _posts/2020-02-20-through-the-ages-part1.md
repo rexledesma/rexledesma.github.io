@@ -5,14 +5,6 @@ date: 2020-02-20 00:00:00-0400
 categories: reading, neoliberalism, chomsky, uber, media, harvey
 ---
 
-# Table of Contents
-{:.no_toc}
-
-- Table of Contents
-{:toc}
-
-## A Year in Review
-
 Near the beginning of any year, it seems timely for a reflection of some sorts.
 I would like to look back on the most influential books that I read in 2019, and
 share my key learnings from these works of literature.

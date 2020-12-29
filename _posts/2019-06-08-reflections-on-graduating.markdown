@@ -5,12 +5,6 @@ date: 2019-07-07 00:00:00
 -0400 categories: umd
 ---
 
-# Table of Contents
-{:.no_toc}
-
-- Table of Contents
-{:toc}
-
 Since graduating with my bachelor's degree this past May, I have wanted to hash
 out my thoughts and lessons learned from my four years at College Park. Prepare
 yourself for a long, stream-of-consciousness-esque read!
