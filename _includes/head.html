@@ -9,12 +9,7 @@
 {% if page.keywords %}
 <meta name="keywords" content="{{ page.keywords | join: ' ' }}">
 {% endif %}
-
-{% if page.layout == "index" %}
-<title>{{ site.title }}</title>
-{% else %}
-<title>{{ page.title }} – {{ site.title }}</title>
-{% endif %}
+<title>{{ page.title }}</title>
 
 {%- if jekyll.environment == 'production' and site.google_analytics -%}
   {%- include google-analytics.html -%}
