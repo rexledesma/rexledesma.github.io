@@ -12,8 +12,6 @@ github_username: rexledesma
 linkedin_username: rexledesma
 twitter_username: haviddarvey
 
-theme: tufte-pandoc-jekyll
-
 google_analytics: UA-173158493-1
 
 permalink: /blog/:title
