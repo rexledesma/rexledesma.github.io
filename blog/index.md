@@ -1,14 +1,17 @@
 ---
 layout: index
-title: "Notes from the Underground"
+title: "Notes from the Overground"
 subtitle: Rex Ledesma
 ---
 {% capture numposts %}{{ site.posts | size }}{% endcapture %}
 {% if numposts != '0' %}
+
 ## Posts by Year
 
 {% for post in site.posts %}{% assign currentyear = post.date | date: "%Y" %}{% if currentyear != prevyear %}
+
 ### {{ currentyear }}
+
 {% assign prevyear = currentyear %}{% endif %} - [{{ post.title }}]({{ site.baseurl }}{{ post.url }}) - {{ post.date | date: '%B %-d' }}
 {% endfor %}
 {% endif %}

@@ -9,7 +9,11 @@
 <meta name="keywords" content="{{ page.keywords | join: ' ' }}">
 {% endif %}
 
+{% if page.layout == "index" %}
+<title>{{ site.title }}</title>
+{% else %}
 <title>{{ page.title }} – {{ site.title }}</title>
+{% endif %}
 
 
 <!-- TODO(jez): canonical URL -->
