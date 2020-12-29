@@ -47,6 +47,7 @@ hr { width: 70%; }
 @media screen and (max-width: 760px) {
   body { width: 85%; }
   article > p, p, footer { width: 100%; }
+  section > ol, section > ul { width: 100%; }
   pre code { width: 100%; }
   ul { width: 100%; }
   figure { max-width: 100%; }
