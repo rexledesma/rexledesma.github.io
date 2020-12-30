@@ -35,6 +35,7 @@ bundle exec jekyll serve
 
 ## Credits
 
+- [`jekyll-minifier`](https://github.com/digitalsparky/jekyll-minifier)
 - [Pixilart](https://www.pixilart.com/)
 - [Semantic UI](https://semantic-ui.com)
 - [`tufte-pandoc-jekyll`](https://github.com/jez/tufte-pandoc-jekyll)

@@ -24,6 +24,7 @@ pandoc:
     - from: 'markdown+tex_math_single_backslash'
     - filter: 'pandoc-sidenote'
 plugins:
+  - jekyll-minifier
   - jekyll-pandoc
 
 exclude:
