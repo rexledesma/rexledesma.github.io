@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Reflections After Graduating"
-date: 2019-07-07 00:00:00
--0400 categories: umd
+title: "Reflections on Graduating"
+date: 2019-07-07 00:00:00-0400
+categories: umd
 ---
 
 Since graduating with my bachelor's degree this past May, I have wanted to hash
