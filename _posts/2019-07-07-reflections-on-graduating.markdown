@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reflections on Graduating"
-date: 2019-07-07 00:00:00-0400
+date: 2019-07-07
 categories: umd
 ---
 

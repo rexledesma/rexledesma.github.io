@@ -13,6 +13,6 @@ excerpt: "Some thoughts on the journey so far, and yet to come."
 
 ### {{ currentyear }}
 
-{% assign prevyear = currentyear %}{% endif %} - [{{ post.title }}]({{ site.baseurl }}{{ post.url }}) - {{ post.date | date: '%B %-d' }}
+{% assign prevyear = currentyear %}{% endif %} - {{ post.date | date: '%B %-d' }}: [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 {% endfor %}
 {% endif %}

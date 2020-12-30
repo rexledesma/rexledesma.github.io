@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Through the Ages (1/3)"
-date: 2020-02-20 00:00:00-0400
+date: 2020-02-20
 categories: reading, neoliberalism, chomsky, uber, media, harvey
 ---
 

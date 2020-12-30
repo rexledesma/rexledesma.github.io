@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The DACA Precariat"
-date: 2020-07-20 00:00:00-0400
+date: 2020-07-20
 categories: DACA, precariat, anxiety, kafka, dfw
 ---
 
