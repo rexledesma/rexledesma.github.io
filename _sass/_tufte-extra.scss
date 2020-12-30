@@ -31,10 +31,10 @@ p, ol, ul {
   line-height: 1.7rem;
 }
 
-section > p, section > footer, section > table { width: 70%; }
+section p, section footer, section table { width: 70%; }
 
 /* 50 + 5 == 55, to be the same width as paragraph */
-section > ol, section > ul { width: 65%;
+section ol, section ul { width: 65%;
                              -webkit-padding-start: 5%; }
 
 blockquote p { width: 70%; }
@@ -47,7 +47,7 @@ hr { width: 70%; }
 @media screen and (max-width: 760px) {
   body { width: 85%; }
   article > p, p, footer { width: 100%; }
-  section > ol, section > ul { width: 100%; }
+  section ol, section ul, section p, section footer, section table { width: 100%; }
   pre code { width: 100%; }
   ul { width: 100%; }
   figure { max-width: 100%; }
