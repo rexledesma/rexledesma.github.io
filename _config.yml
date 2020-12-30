@@ -1,22 +1,39 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Notes from the Overground
-author: Rex Ledesma
-email: rex.ledesma1@gmail.com
-description: "Thoughts in the days"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rexledesma.com" # the base hostname & protocol for your site, e.g. http://example.com
-facebook_username: andover
-github_username: rexledesma
-linkedin_username: rexledesma
-twitter_username: haviddarvey
+author:
+  twitter: haviddarvey
+baseurl: ""
+url: "https://rexledesma.com"
+
+# jekyll-seo-tag
+twitter:
+  username: haviddarvey
+  card: summary
+logo: /assets/images/icons/logo.png
+social:
+  name: Rex Ledesma
+  links:
+    - https://github.com/rexledesma
+    - https://twitter.com/haviddarvey
+    - https://www.facebook.com/andover
+    - https://www.goodreads.com/rexledesma
+    - https://www.linkedin.com/in/rexledesma
+    - https://www.strava.com/athletes/rexledesma
+defaults:
+  - scopes:
+      path: ""
+    values:
+      image:
+        path: /assets/images/icons/logo.png
+        height: 480
+        width: 480
 
 google_analytics: UA-173158493-1
 
 permalink: /blog/:title
 
-# Build settings
+# build settings
 markdown: Pandoc
 pandoc:
   extensions:
@@ -26,6 +43,7 @@ pandoc:
 plugins:
   - jekyll-minifier
   - jekyll-pandoc
+  - jekyll-seo-tag
 
 exclude:
   - Gemfile

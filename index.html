@@ -1,24 +1,18 @@
 ---
+title: Rex Ledesma
+description: "A portfolio to host my socials, writings, and bookshelf."
 ---
 <html>
 
 <head>
-  <title>Rex Ledesma</title>
-  <meta name="author" content="Rex Ledesma" />
-  <meta name="description" content="A portfolio to host my socials, writings, and bookshelf!" />
-  <meta property="og:title" content="Rex Ledesma" />
-  <meta property="og:image" content="https://rexledesma.com/assets/images/icons/logo.png" />
-  <meta property="og:image:type" content="image/png" />
-  <meta property="og:image:height" content="480" />
-  <meta property="og:image:width" content="480" />
-  <meta property="og:description" content="A portfolio to host my socials, writings, and bookshelf!" />
-  <meta property="og:url" content="https://rexledesma.com/" />
-  <meta property="og:type" content="website" />
+  <meta name="author" content="{{ site.social.name }}" />
   <link rel="icon" href="assets/images/icons/favicon.png" type="image/x-icon" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.3/semantic.min.css" />
   <link rel="stylesheet" href="assets/css/style.css" />
+
+  {% seo %}
 
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
