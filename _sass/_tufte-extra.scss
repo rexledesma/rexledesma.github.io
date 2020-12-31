@@ -54,4 +54,5 @@ hr { width: 70%; }
   figcaption, figure.fullwidth figcaption { margin-right: 0%;
                                             max-width: none; }
   blockquote p, blockquote footer, div.epigraph > blockquote > footer,.MJXc-display { width: 100%; }
+  .sidenote-number:after { text-decoration: underline; }
 }
