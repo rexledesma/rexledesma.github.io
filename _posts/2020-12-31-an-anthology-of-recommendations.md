@@ -3,6 +3,12 @@ layout: post
 title: "An Anthology of Recommendations"
 date: 2020-12-31
 categories: books, youtube, recommendations
+description: "With my thoughts scattered among obscure Strava activity titles,
+journal entries backfilled from days in the future, and absurd messenger group chats
+(where I send the occassional non sequitur article link so that I'm contributing
+something other than memes for once), it only makes sense to organize and
+compile some of my reads, animated media, and soundtracks that prompted
+these thoughts in the first place."
 ---
 
 With my thoughts scattered among obscure Strava activity titles[^1], journal
