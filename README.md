@@ -35,8 +35,10 @@ bundle exec jekyll serve
 
 ## Credits
 
+- [`jekyll-last-modified-at`](https://github.com/gjtorikian/jekyll-last-modified-at)
 - [`jekyll-minifier`](https://github.com/digitalsparky/jekyll-minifier)
 - [`jekyll-seo-tag`](https://github.com/jekyll/jekyll-seo-tag)
+- [`jekyll-sitemap`](https://github.com/jekyll/jekyll-sitemap)
 - [Pixilart](https://www.pixilart.com/)
 - [Semantic UI](https://semantic-ui.com)
 - [`tufte-pandoc-jekyll`](https://github.com/jez/tufte-pandoc-jekyll)
