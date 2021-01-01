@@ -12,7 +12,9 @@ description: "A portfolio to host my socials, writings, and bookshelf."
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.3/semantic.min.css" />
   <link rel="stylesheet" href="assets/css/style.css" />
 
-  {% seo %}
+  <title>{{ page.title }}</title>
+
+  {% seo title=false %}
 
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}

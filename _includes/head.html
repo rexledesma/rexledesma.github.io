@@ -10,7 +10,9 @@
 <meta name="keywords" content="{{ page.keywords | join: ' ' }}">
 {% endif %}
 
-{% seo %}
+<title>{{ page.title }}</title>
+
+{% seo title=false%}
 
 {%- if jekyll.environment == 'production' and site.google_analytics -%}
   {%- include google-analytics.html -%}
