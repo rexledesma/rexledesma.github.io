@@ -18,7 +18,7 @@ something other than memes for once), it only makes sense to organize and
 compile some of my reads, animated media, and soundtracks that prompted
 these thoughts in the first place.
 
-Lots of these pieces served as my escapes from the world this year. Within these
+Lots of these pieces served as my escapes from the world. Within these
 escapes, I found a love for postmodern literature[^2] and critical theory.
 Without any delay, here are my favorites from this year.
 
@@ -31,7 +31,7 @@ side notes in my blog.
 
 ### Fiction
 
-- _The Soul is Not A Smithy_ by David Foster Wallace
+- _The Soul is Not a Smithy_ by David Foster Wallace
 - _The Castle_ by Franz Kafka
 - _Private Citizens_ by Tony Tulathimutte
 - _Forever Overhead_ by David Foster Wallace
@@ -127,9 +127,9 @@ to carry the habit to this year as well.
   - [_You'll Want a Gravel Bike After Watching
     This_](https://www.youtube.com/watch?v=Bcrky9sw02w)
 - David Foster Wallace[^13]
-  - [_David Foster Wallace, ZDF (German Television)
+  - [_ZDF (German Television)
     Interview_](https://www.youtube.com/watch?v=iGLzWdT7vGc)
-  - [_David Foster Wallace, Charlie Rose Interview, March
+  - [_Charlie Rose Interview, March
     1997_](https://charlierose.com/videos/23311)
 
 [^8]: How else could I fulfill my thirst for live music in our socially isolated
