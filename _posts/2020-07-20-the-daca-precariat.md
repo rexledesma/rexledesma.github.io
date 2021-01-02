@@ -3,19 +3,30 @@ layout: post
 title: "The DACA Precariat"
 date: 2020-07-20
 categories: DACA, precariat, anxiety, kafka, dfw
+description: "In the approaching days for the Supreme Court of the United States
+(SCOTUS) to issue a decision on the fate of the Deferred Action for Childhood
+Arrivals (DACA), my anxiety levels spiked to the point where it was difficult to
+continue regularly working. There were many overwhelming thoughts that I needed
+to process; on some days, the ordeal of thought was a herculean task that I
+failed to cope."
 ---
 
+<div class="epigraph">
 > The precariat is the first class in history to be losing acquired rights –
 > cultural, civil, social, economic and political. [...] The precariat must ask
 > for favours, for charity, to show obsequiousness, to plead with figures of
 > authority. It is degrading and stigmatizing.
 >
-> —
-> [Guy Standing](https://www.weforum.org/agenda/2016/11/precariat-global-class-rise-of-populism/)
+> Guy Standing,
+> <cite>
+> [Meet the precariat, the new global class fuelling the rise of
+> populism](https://www.weforum.org/agenda/2016/11/precariat-global-class-rise-of-populism/)
+> </cite>
+</div>
 
 In the approaching days for the Supreme Court of the United States (SCOTUS) to
-issue a decision on the fate of the
-[Deferred Action for Childhood Arrivals (DACA)](https://en.wikipedia.org/wiki/Department_of_Homeland_Security_v._Regents_of_the_University_of_California),
+issue a decision on the fate of the [Deferred Action for Childhood Arrivals
+(DACA)](https://en.wikipedia.org/wiki/Department_of_Homeland_Security_v._Regents_of_the_University_of_California),
 my anxiety levels spiked to the point where it was difficult to continue
 regularly working. There were many overwhelming thoughts that I needed to
 process; on some days, the ordeal of thought was a herculean task that I failed
@@ -82,17 +93,18 @@ purgatorial sentence. The nature of DACA provides a two year period where
 Immigration and Customs Enforcement exercises prosecutorial discretion, choosing
 not to pursue removal of DACA recipients from the United States. Our fate is
 kept at this low stage of ruling, at a cost of \$495 every two years, with fear
-of constant surveillance and
-[paranoia to maintain good standing behavior](https://www.uscis.gov/archive/frequently-asked-questions#criminal_convictions),
+of constant surveillance and [paranoia to maintain good standing
+behavior](https://www.uscis.gov/archive/frequently-asked-questions#criminal_convictions),
 lest the government choose not to extend the protracted sentence during the next
 renewal.
 
-The decision regarding the fate of DACA, which I remind is not new, for
-[its rescission was declared 2017](https://www.dhs.gov/news/2017/09/05/memorandum-rescission-daca),
-and other
-[emerging related immigration woes](https://www.whitehouse.gov/presidential-actions/proclamation-suspending-entry-aliens-present-risk-u-s-labor-market-following-coronavirus-outbreak/),
-are a grounding reminder that the
-[“American Dream” is not guaranteed](https://money.cnn.com/2015/04/22/news/economy/stiglitz-american-dream/index.html).
+The decision regarding the fate of DACA, which I remind is not new, for [its
+rescission was declared
+2017](https://www.dhs.gov/news/2017/09/05/memorandum-rescission-daca), and other
+[emerging related immigration
+woes](https://www.whitehouse.gov/presidential-actions/proclamation-suspending-entry-aliens-present-risk-u-s-labor-market-following-coronavirus-outbreak/),
+are a grounding reminder that the [“American Dream” is not
+guaranteed](https://money.cnn.com/2015/04/22/news/economy/stiglitz-american-dream/index.html).
 If the foundation of the house that you have built is suspect, how can you trust
 the remainder of the architecture to hold? The foundation is always hidden once
 a facade of a structure has been brought up. It is a silent burden that
@@ -103,17 +115,18 @@ secure, yet unstable edifices built by DACA recipients on American soil. In many
 cases, the life they have built here on this land is all they have ever known.
 It pains me.
 
-Back in 2005, acclaimed author David Foster Wallace
-[addressed the commencement of the graduating class of Kenyon College](https://fs.blog/2012/04/david-foster-wallace-this-is-water/)
-with a multitude of his life’s philosophies. In the speech, known as “This is
-Water” and published afterwards in book form with a similar title, Wallace
-reflects on navigating the banality of post-graduate life, achieving empathy for
-those with different worldviews, and the true purpose of a liberal arts
-education. It is a fantastic oratory: I highly recommend listening to it if you
-are feeling contemplative. I’ve listened to it twice since I discovered it in
-the beginning of this year. There is a calming essence in Wallace’s elucidation
-of life and its trials that allows me to take a breath while I concurrently
-undergo its turbulence.
+Back in 2005, acclaimed author David Foster Wallace [addressed the commencement
+of the graduating class of Kenyon
+College](https://fs.blog/2012/04/david-foster-wallace-this-is-water/) with a
+multitude of his life’s philosophies. In the speech, known as “This is Water”
+and published afterwards in book form with a similar title, Wallace reflects on
+navigating the banality of post-graduate life, achieving empathy for those with
+different worldviews, and the true purpose of a liberal arts education. It is a
+fantastic oratory: I highly recommend listening to it if you are feeling
+contemplative. I’ve listened to it twice since I discovered it in the beginning
+of this year. There is a calming essence in Wallace’s elucidation of life and
+its trials that allows me to take a breath while I concurrently undergo its
+turbulence.
 
 Unfortunately, this time around there was no peace to be found in his words. It
 is no surprise that David Foster Wallace referenced the head as “the terrible
@@ -152,11 +165,12 @@ landscape of impediments of unknown horrors from below or sweeping riptides that
 forcibly take you on the wrong path. If you know me personally, I do not know
 how to swim.
 
-I have
-[played the part you have modelled](https://obamawhitehouse.archives.gov/the-press-office/2012/06/15/remarks-president-immigration)
+I have [played the part you have
+modelled](https://obamawhitehouse.archives.gov/the-press-office/2012/06/15/remarks-president-immigration)
 us to be. Yet missing papers continue to overshadow my totality. When will the
 ocean part and let me walk by my own to dry land, a land I can safely call home?
-[Even after a supposedly favorable decision](https://www.nytimes.com/2020/06/18/us/DACA-dreamers-supreme-court-immigration.html),
+[Even after a supposedly favorable
+decision](https://www.nytimes.com/2020/06/18/us/DACA-dreamers-supreme-court-immigration.html),
 I can only sigh a small breath of relief, for again the proceedings of these
 recent events serve as a harsh reminder that my presence in America for the past
 nineteen years has always been a provisional existence. And onward I sail,
@@ -164,8 +178,8 @@ wondering when they decide what land I can finally call home.
 
 ---
 
-Thanks as always to my friends (Reg Ledesma, Rosanne Ng, Jeffrey Zhao,
-[Annie Ke](http://annieke.github.io/), Cathy Li,
-[Neel Somani](https://www.ocf.berkeley.edu/~neel/), Isabel Ting, Iris Pei, and
-Alex Zhang) for reading drafts, providing edits, and making this essay possible
-with motivation and support.
+Thanks as always to my friends (Reg Ledesma, Rosanne Ng, Jeffrey Zhao, [Annie
+Ke](http://annieke.github.io/), Cathy Li, [Neel
+Somani](https://www.ocf.berkeley.edu/~neel/), Isabel Ting, Iris Pei, and Alex
+Zhang) for reading drafts, providing edits, and making this essay possible with
+motivation and support.
