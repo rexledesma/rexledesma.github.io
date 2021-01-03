@@ -20,6 +20,7 @@ social:
     - https://www.goodreads.com/rexledesma
     - https://www.linkedin.com/in/rexledesma
     - https://www.strava.com/athletes/rexledesma
+    - https://open.spotify.com/user/125062534
 defaults:
   - scopes:
       path: ""
