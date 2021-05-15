@@ -9,7 +9,7 @@ url: "https://rexledesma.com"
 # jekyll-seo-tag
 twitter:
   username: haviddarvey
-  card: summary
+  card: summary_large_image
 logo: /assets/images/icons/logo.png
 social:
   name: Rex Ledesma
