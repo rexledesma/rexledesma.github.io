@@ -2,6 +2,7 @@
 layout: post
 title: "Gossip, Parody, and Pastiche"
 date: 2021-05-15
+image: /assets/images/previews/alamo-square-sunset-znerold.jpeg
 categories: gossip, morality
 description: "Steeping tea is one of my favorite San Francisco picnic pastimes.
 The idea of a hobble of twenty-something-year-olds gathered around an
