@@ -2,6 +2,7 @@
 layout: post
 title: "An Anthology of Recommendations"
 date: 2020-12-31
+image: /assets/images/previews/anthology-kon.jpeg
 categories: books, youtube, recommendations
 description: "With my thoughts scattered among obscure Strava activity titles,
 journal entries backfilled from days in the future, and absurd messenger group chats

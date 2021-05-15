@@ -2,6 +2,7 @@
 layout: post
 title: "The DACA Precariat"
 date: 2020-07-20
+image: /assets/images/previews/the-trial-welles.jpeg
 categories: DACA, precariat, anxiety, kafka, dfw
 description: "In the approaching days for the Supreme Court of the United States
 (SCOTUS) to issue a decision on the fate of the Deferred Action for Childhood
