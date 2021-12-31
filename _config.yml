@@ -2,20 +2,20 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 author:
-  twitter: haviddarvey
+  twitter: _rexledesma
 baseurl: ""
 url: "https://rexledesma.com"
 
 # jekyll-seo-tag
 twitter:
-  username: haviddarvey
+  username: _rexledesma
   card: summary_large_image
 logo: /assets/images/icons/logo.png
 social:
   name: Rex Ledesma
   links:
     - https://github.com/rexledesma
-    - https://twitter.com/haviddarvey
+    - https://twitter.com/_rexledesma
     - https://www.facebook.com/andover
     - https://www.goodreads.com/rexledesma
     - https://www.linkedin.com/in/rexledesma
