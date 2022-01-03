@@ -23,12 +23,14 @@ Lots of these pieces served as my escapes from the world. Within these
 escapes, I found a love for postmodern literature[^2] and critical theory.
 Without any delay, here are my favorites from this year.
 
-[^1]: Here is a shameless plug to [follow my
-Strava](https://www.strava.com/athletes/rexledesma) so I can be the influencer
-I've always wanted to be.
+[^1]:
+    Here is a shameless plug to [follow my
+    Strava](https://www.strava.com/athletes/rexledesma) so I can be the influencer
+    I've always wanted to be.
 
-[^2]: Hence the multiple appearances of David Foster Wallace, and the new use of
-side notes in my blog.
+[^2]:
+    Hence the multiple appearances of David Foster Wallace, and the new use of
+    side notes in my blog.
 
 ### Fiction
 
@@ -40,16 +42,18 @@ side notes in my blog.
 - _The Depressed Person_ by David Foster Wallace
 - _Pnin_ by Vladimir Nabokov[^4]
 
-[^3]: I still remember listening to [this
-narration](https://www.youtube.com/watch?v=9f-Q9GHmJGc) after an unsettling
-first read. [A tour of the city by
-bike](https://www.strava.com/activities/4218502396) took just enough time to fit
-in a meditation on this brilliant story. With each subsequent interview of David
-Foster Wallace that I listen to, this account becomes increasingly disturbing.
+[^3]:
+    I still remember listening to [this
+    narration](https://www.youtube.com/watch?v=9f-Q9GHmJGc) after an unsettling
+    first read. [A tour of the city by
+    bike](https://www.strava.com/activities/4218502396) took just enough time to fit
+    in a meditation on this brilliant story. With each subsequent interview of David
+    Foster Wallace that I listen to, this account becomes increasingly disturbing.
 
-[^4]: Also, I absolutely adored [this essay (written by Emily
-Webb)](https://www.lagrange.edu/resources/pdf/citations/2017/14_Final_English_Webb.pdf)
-on unreliable narration in some of Nabokov's works.
+[^4]:
+    Also, I absolutely adored [this essay (written by Emily
+    Webb)](https://www.lagrange.edu/resources/pdf/citations/2017/14_Final_English_Webb.pdf)
+    on unreliable narration in some of Nabokov's works.
 
 ### Nonfiction
 
@@ -64,10 +68,11 @@ on unreliable narration in some of Nabokov's works.
 - _The Great Delusion: Liberal Dreams and International Realities_ by John
   Mearsheimer
 
-[^5]: Listening to [this
-speech](https://fs.blog/2012/04/david-foster-wallace-this-is-water) was one of
-the ways to calm myself on the most dreadful of days during this year. It was
-pure meditation. I've lost track the number of times I've referred to this work.
+[^5]:
+    Listening to [this
+    speech](https://fs.blog/2012/04/david-foster-wallace-this-is-water) was one of
+    the ways to calm myself on the most dreadful of days during this year. It was
+    pure meditation. I've lost track the number of times I've referred to this work.
 
 ### Articles
 
@@ -83,15 +88,17 @@ pure meditation. I've lost track the number of times I've referred to this work.
   recommendations_](https://ava.substack.com/p/a-few-book-recommendations) by
   Ava Huang[^7]
 
-[^6]: The article series was recommended by my friend Neel. In the month of
-August, I shilled this story beyond count. It provided much needed entertainment
-as I was job hunting.
+[^6]:
+    The article series was recommended by my friend Neel. In the month of
+    August, I shilled this story beyond count. It provided much needed entertainment
+    as I was job hunting.
 
-[^7]: A really fun read, and also served as supplemental motivation to write
-this current piece. The primary impulse was my friend Rosanne. She wrote a
-review for her books back at the end of 2019. I somewhat followed suit, albeit
-[two months late](https://rexledesma.com/blog/through-the-ages-part1). I wanted
-to carry the habit to this year as well.
+[^7]:
+    A really fun read, and also served as supplemental motivation to write
+    this current piece. The primary impulse was my friend Rosanne. She wrote a
+    review for her books back at the end of 2019. I somewhat followed suit, albeit
+    [two months late](https://rexledesma.com/blog/through-the-ages-part1). I wanted
+    to carry the habit to this year as well.
 
 ### Videos, Interviews, Lectures
 
@@ -133,25 +140,29 @@ to carry the habit to this year as well.
   - [_Charlie Rose Interview, March
     1997_](https://charlierose.com/videos/23311)
 
-[^8]: How else could I fulfill my thirst for live music in our socially isolated
-present?
+[^8]:
+    How else could I fulfill my thirst for live music in our socially isolated
+    present?
 
-[^9]: I credit this channel for really opening up the world of critical theory
-and postmodern thought in my life. All of the videos on this channel are well
-researched and quite entertaining.
+[^9]:
+    I credit this channel for really opening up the world of critical theory
+    and postmodern thought in my life. All of the videos on this channel are well
+    researched and quite entertaining.
 
-[^10]: [Brian Wong](https://twitter.com/brianwongopr), one of the founding
-members of the review, is a fantastic interviewer - his dynamic in coversations
-(especially with Žižek) is incredibly informative beyond entertaining!
+[^10]:
+    [Brian Wong](https://twitter.com/brianwongopr), one of the founding
+    members of the review, is a fantastic interviewer - his dynamic in coversations
+    (especially with Žižek) is incredibly informative beyond entertaining!
 
-[^11]: God, I just love this sort of movie analysis and commentary. Made me
-adore Satoshi Kon even more. [BREADSWORD](https://twitter.com/BREADSWORD) is
-pretty funny too.
+[^11]:
+    God, I just love this sort of movie analysis and commentary. Made me
+    adore Satoshi Kon even more. [BREADSWORD](https://twitter.com/BREADSWORD) is
+    pretty funny too.
 
 [^12]: How could you not want to cycle after watching these beautiful videos?
-
-[^13]: Yes, he gets his own section. I found most of his interviews compiled in
-[an audio project](http://www.dfwaudioproject.org/interviews-profiles/).
+[^13]:
+    Yes, he gets his own section. I found most of his interviews compiled in
+    [an audio project](http://www.dfwaudioproject.org/interviews-profiles/).
 
 ### Movies
 
@@ -163,11 +174,13 @@ pretty funny too.
 - _Tokyo Godfathers_ directed by Satoshi Kon
 - _Soul_ directed by Pete Docter[^15]
 
-[^14]: I rewatched this movie after a [wonderful morning
-ride](https://www.strava.com/activities/3702781710) with my roommate Jeffrey.
-I'm honestly a sucker for the film's soundtrack. For me, the music is
-quintessentially the spirit of the year 2013.
+[^14]:
+    I rewatched this movie after a [wonderful morning
+    ride](https://www.strava.com/activities/3702781710) with my roommate Jeffrey.
+    I'm honestly a sucker for the film's soundtrack. For me, the music is
+    quintessentially the spirit of the year 2013.
 
-[^15]: I watched this today, on New Year's Eve, while taking the plane from
-Durham to San Francisco! So heartfelt and emotional - the opening scene is
-brilliant.
+[^15]:
+    I watched this today, on New Year's Eve, while taking the plane from
+    Durham to San Francisco! So heartfelt and emotional - the opening scene is
+    brilliant.
