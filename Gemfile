@@ -10,4 +10,5 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   # Jekyll theme to use tufte css!
   gem "tufte-pandoc-jekyll"
+  gem "rake"
 end
