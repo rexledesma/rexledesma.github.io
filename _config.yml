@@ -21,6 +21,7 @@ social:
     - https://www.linkedin.com/in/rexledesma
     - https://www.strava.com/athletes/rexledesma
     - https://open.spotify.com/user/125062534
+    - https://rexledesma.substack.com
 defaults:
   - scopes:
       path: ""
