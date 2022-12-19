@@ -22,6 +22,7 @@ social:
     - https://www.strava.com/athletes/rexledesma
     - https://open.spotify.com/user/125062534
     - https://rexledesma.substack.com
+    - https://instagram.com/rexypooh
 defaults:
   - scopes:
       path: ""
