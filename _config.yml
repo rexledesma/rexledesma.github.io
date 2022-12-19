@@ -2,6 +2,8 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 author:
+  name: Rex Ledesma
+  url: "https://rexledesma.com"
   twitter: _rexledesma
 baseurl: ""
 url: "https://rexledesma.com"
