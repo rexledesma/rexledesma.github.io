@@ -3,6 +3,8 @@ layout: index
 title: "Notes from the Overground"
 subtitle: Rex Ledesma
 excerpt: "Some thoughts on the journey so far, and yet to come."
+seo:
+  type: Blog
 ---
 {% capture numposts %}{{ site.posts | size }}{% endcapture %}
 {% if numposts != '0' %}
